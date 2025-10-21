@@ -1,0 +1,178 @@
+[
+  {
+    "Clinical Terms": [
+      "Colon polyps (history)",
+      "Internal hemorrhoids",
+      "Diverticulosis",
+      "Rectal exam",
+      "Melanosis coli",
+      "Moderate sigmoid diverticulosis",
+      "No polyps found",
+      "Good bowel preparation",
+      "No immediate complications"
+    ],
+    "Anatomical Locations": [
+      "Rectum",
+      "Sigmoid colon",
+      "Cecum",
+      "Proximal colon",
+      "Ileocecal valve",
+      "Appendiceal orifice"
+    ],
+    "Diagnosis": [
+      "Personal history of colonic polyps",
+      "Internal hemorrhoids",
+      "Diverticulosis (sigmoid)",
+      "Melanosis coli",
+      "No new polyps seen in this examination"
+    ],
+    "Procedures": [
+      "Colonoscopy",
+      "Rectal examination",
+      "Scope passage to cecum",
+      "Retroflexion in rectum",
+      "Monitored Anesthesia Care (MAC)",
+      "Intravenous medication administration (Lidocaine, Propofol, Lactated Ringer's)"
+    ],
+    "ICD-10": [
+      "Z86.010",
+      "K64.8",
+      "K57.90"
+    ],
+    "CPT": [
+      "45378"
+    ],
+    "HCPCS": [
+      "J3490",
+      "A4216"
+    ]
+  },
+  {
+    "Clinical Terms": [
+      "Colon cancer screening",
+      "Hemorrhoids",
+      "Sessile polyp",
+      "Polyp removal",
+      "No immediate complication"
+    ],
+    "Anatomical Locations": [
+      "Anal canal",
+      "Rectum",
+      "Sigmoid colon",
+      "Descending colon",
+      "Splenic flexure",
+      "Transverse colon",
+      "Hepatic flexure",
+      "Ascending colon",
+      "Cecum",
+      "Terminal ileum"
+    ],
+    "Diagnosis": [
+      "Colon cancer screening",
+      "Hemorrhoids",
+      "Sessile polyp in descending colon"
+    ],
+    "Procedures": [
+      "Colonoscopy",
+      "Cold snare polypectomy"
+    ],
+    "ICD-10": [
+      "Z12.11",
+      "K64.9"
+    ],
+    "CPT": [
+      "45385"
+    ],
+    "HCPCS": []
+  },
+  {
+    "Clinical Terms": [
+      "Rectal bleeding",
+      "Ulcer of anus and rectum",
+      "Internal hemorrhoids",
+      "Hemorrhage of anus and rectum",
+      "Localized erosion (proctitis)",
+      "Biopsy taken",
+      "Good bowel prep",
+      "Minimal estimated blood loss"
+    ],
+    "Anatomical Locations": [
+      "Anus",
+      "Rectum",
+      "Distal rectum",
+      "Anal verge",
+      "Right colon",
+      "Transverse colon",
+      "Left colon",
+      "Cecum",
+      "Appendiceal orifice",
+      "Ileocecal valve"
+    ],
+    "Diagnosis": [
+      "Ulcer in the rectum",
+      "Internal hemorrhoids (moderate)",
+      "Single erosion at anal verge (proctitis)",
+      "Rectal bleeding"
+    ],
+    "Procedures": [
+      "Colonoscopy",
+      "Biopsy using cold forceps",
+      "Retroflexion in rectum",
+      "Boston Bowel Preparation Scoring (BBPS)"
+    ],
+    "ICD-10": [
+      "K62.6",
+      "K64.8",
+      "K62.5"
+    ],
+    "CPT": [
+      "45380"
+    ],
+    "HCPCS": []
+  },
+  {
+    "Clinical Terms": [
+      "Atypical chest pain",
+      "Right upper quadrant (RUQ) abdominal pain",
+      "Barrett's esophagus",
+      "Gastritis",
+      "Biopsies for H. pylori",
+      "Mild antral and body gastritis",
+      "Irregular Z-Line",
+      "No ulcers or masses",
+      "No immediate complications"
+    ],
+    "Anatomical Locations": [
+      "Distal Esophagus",
+      "Stomach",
+      "Antrum",
+      "Stomach body",
+      "Duodenal bulb",
+      "2nd portion of duodenum",
+      "Right upper quadrant (RUQ)"
+    ],
+    "Diagnosis": [
+      "Atypical chest pain",
+      "Right upper quadrant pain",
+      "Mild gastritis",
+      "Suspected Barrett's esophagus (biopsied)"
+    ],
+    "Procedures": [
+      "EGD (esophagogastroduodenoscopy)",
+      "Biopsy for H. pylori",
+      "Biopsy of distal esophagus",
+      "Retroflexion in the stomach"
+    ],
+    "ICD-10": [
+      "R07.89",
+      "R10.11",
+      "K29.70"
+    ],
+    "CPT": [
+      "43239"
+    ],
+    "HCPCS": [
+      "J3490"
+    ]
+  }
+] 

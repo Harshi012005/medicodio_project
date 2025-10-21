@@ -1,0 +1,149 @@
+[
+    {
+        "ReportID": "Report 1",
+        "Clinical Terms": [
+            "polyps",
+            "diverticulosis",
+            "melanosis",
+            "colonoscopy",
+            "hemorrhoids"
+        ],
+        "Anatomical Locations": [
+            "colon",
+            "cecum",
+            "rectum"
+        ],
+        "Diagnosis": [
+            "polyps",
+            "diverticulosis",
+            "melanosis",
+            "colonoscopy",
+            "hemorrhoids"
+        ],
+        "Procedures": [
+            "colonoscopy"
+        ],
+        "ICD-10": [
+            "K57.90",
+            "Z86.0100",
+            "K64.8"
+        ],
+        "CPT": [],
+        "HCPCS": []
+    },
+    {
+        "ReportID": "Report 2",
+        "Clinical Terms": [
+            "polyps",
+            "colonoscopy",
+            "hemorrhoids"
+        ],
+        "Anatomical Locations": [
+            "sigmoid colon",
+            "ascending colon",
+            "descending colon",
+            "ileum",
+            "cecum",
+            "splenic flexure",
+            "colon",
+            "hepatic flexure",
+            "transverse colon",
+            "rectum"
+        ],
+        "Diagnosis": [
+            "polyps",
+            "colonoscopy",
+            "hemorrhoids"
+        ],
+        "Procedures": [
+            "colonoscopy"
+        ],
+        "ICD-10": [
+            "Z12.11",
+            "K64.9"
+        ],
+        "CPT": [],
+        "HCPCS": []
+    },
+    {
+        "ReportID": "Report 3",
+        "Clinical Terms": [
+            "ulcer",
+            "erosion",
+            "proctitis",
+            "bleeding",
+            "biopsy",
+            "colonoscopy",
+            "hemorrhoids"
+        ],
+        "Anatomical Locations": [
+            "anal verge",
+            "anus",
+            "colon",
+            "cecum",
+            "transverse colon",
+            "rectum"
+        ],
+        "Diagnosis": [
+            "ulcer",
+            "erosion",
+            "proctitis",
+            "bleeding",
+            "biopsy",
+            "colonoscopy",
+            "hemorrhoids"
+        ],
+        "Procedures": [
+            "biopsy",
+            "colonoscopy"
+        ],
+        "ICD-10": [
+            "K62.5",
+            "K62.6",
+            "K64.8"
+        ],
+        "CPT": [
+            "45380"
+        ],
+        "HCPCS": []
+    },
+    {
+        "ReportID": "Report 4",
+        "Clinical Terms": [
+            "chest pain",
+            "pain",
+            "gastritis",
+            "Barrett",
+            "abdominal pain",
+            "Barrett's esophagus",
+            "biopsy"
+        ],
+        "Anatomical Locations": [
+            "esophagus",
+            "stomach",
+            "duodenum",
+            "right upper quadrant"
+        ],
+        "Diagnosis": [
+            "chest pain",
+            "pain",
+            "gastritis",
+            "Barrett",
+            "abdominal pain",
+            "Barrett's esophagus",
+            "biopsy"
+        ],
+        "Procedures": [
+            "biopsy",
+            "EGD with biopsy",
+            "EGD"
+        ],
+        "ICD-10": [
+            "K29.70",
+            "R07.89",
+            "R10.11"
+        ],
+        "CPT": [],
+        "HCPCS": []
+    }
+]
